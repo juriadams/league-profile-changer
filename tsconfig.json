@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "lib": ["ES2015", "DOM"]
+    },
+    "files": ["src/index.ts"]
+}
